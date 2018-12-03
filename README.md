@@ -10,7 +10,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/nok91/boilerplate-react-redux-starter.git
-> cd ReduxSimpleStarter
+> cd boilerplate-react-redux-starter
 > npm install
 > npm start
 ```
